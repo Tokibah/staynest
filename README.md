@@ -6,7 +6,7 @@ With a minimalist and professional UI, Whether you're planning a quick getaway o
 
 # ScreenShot
 
-![Front](readme_image/stfront.png)
+![Front](readme_image/st_front.png)
 
 ![Create](readme_image/st_createaccount.png)
 
