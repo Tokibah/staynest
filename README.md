@@ -6,5 +6,10 @@ With a minimalist and professional UI, Whether you're planning a quick getaway o
 
 # ScreenShot
 
-# FrontPage
 ![Front](readme_image/stfront.png)
+
+![Create](readme_image/st_createaccount.png)
+
+![Login](readme_image/st_login.png)
+
+![Home](readme_image/st_home.png)
