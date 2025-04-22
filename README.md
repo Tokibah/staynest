@@ -6,4 +6,4 @@ With a minimalist and professional UI, Whether you're planning a quick getaway o
 
 # ScreenShot
 
-![frontpage](readme_image/stfront.png)
+<img src="readme_assets/screenshot.png" alt="StayNest UI" width="400"/>
